@@ -2,6 +2,8 @@ Yii2 快递100接口
 ============
 Yii2 快递100接口
 
+[快递100](https://www.kuaidi100.com/openapi/api_post.shtml)
+
 Installation
 ------------
 
